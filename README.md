@@ -1,2 +1,2 @@
 # OOP-Classes
-I'm revisiting Java, and I'll be documenting my progress here, as I didn't before. Starting off with OOP 001: Classes and Constructors. 
+I'm revisiting Java, and I'll be documenting my progress here, because I didn't before. After a lil brushing ups, I'm starting off here with OOP 001: Classes and Constructors. Here's the popular 'Bank Account' project - where I utilised 'Constructor Overloading' and '.. Chaining', a 'Car' class - where I used Setters to set rules by which anyone setting a variable will abide, and a 'Customer' class - well, just something light to seal things up.
